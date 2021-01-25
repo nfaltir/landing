@@ -29,7 +29,7 @@
 }
 
 #header #logo span {
- color: #564FCC;
+  color: #16c79a;
 }
 
 #header nav {
@@ -46,7 +46,7 @@
 
 #header nav a:last-child {
   color: #eee;
-  background: #6C63FF;
+  background: #32e0c4;
   padding: 10px 20px;
   margin-left: 30px;
   border-radius: 30px;
@@ -79,7 +79,8 @@
 }
 
 #content-container h1{
-color: #564FCC;
+color: #393e46;
+
 font-weight: 900;
 font-size: 80px;
 line-height: 0.9em;
@@ -95,7 +96,7 @@ margin-bottom: 30px;
   border: none;
   outline: none;
   color: #FFF;
-  background-color: #6C63FF;
+  background-color: #32e0c4;
   padding: 16px 0px;
   border-radius: 40px;
   font-size: 16px;
